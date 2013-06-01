@@ -2,7 +2,7 @@
 /**
 \file code.cpp 
 
-@author Щербаков Алексей ИУ8-23
+@author  Р©РµСЂР±Р°РєРѕРІ РђР»РµРєСЃРµР№ РРЈ 8-23
 @brief Example of Aho-Corasik algorithm.
     
 The algorithm implements a set of substring search in the dictionary in this line.
